@@ -1,3 +1,7 @@
+# vscode env
+.idea/
+Head_First_Java_Chinese_p689.iml
+
 # Compiled class file
 *.class
 
