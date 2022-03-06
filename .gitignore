@@ -1,4 +1,5 @@
 # vscode env
+.vscode/settings.json
 .idea/
 Head_First_Java_Chinese_p689.iml
 
